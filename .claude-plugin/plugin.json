@@ -1,0 +1,8 @@
+{
+  "name": "static-analysis",
+  "version": "1.4.3",
+  "description": "SARIF parsing, filtering, and result-aggregation skill for static-analysis output",
+  "author": {
+    "name": "jojocorse2b"
+  }
+}
